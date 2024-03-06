@@ -1,0 +1,268 @@
+---
+format: 
+  pdf:
+    geometry: 
+      - top=10mm
+      - left=15mm
+      - right=15mm
+      - bottom=10mm
+      - heightrounded
+    colorlinks: true
+    fontsize: 11pt
+phone: 551-303-9668
+address: 900 Weyburn Pl, Tipuana Apt 806, Los Angeles CA 90024
+email: ananyagarg81@g.ucla.edu
+header-includes: 
+  \usepackage{multicol}
+  \usepackage{vwcol} 
+---
+
+
+<!-- TITLE -->
+
+```{=tex}
+\begin{huge}\begin{center} \textbf{Ananya Garg}\end{center}\end{huge}
+\vspace{-0.8cm}
+```
+
+<!-- CONTACT INFO -->
+
+```{=tex}
+\begin{center}ananyagarg81@g.ucla.edu |
+551-303-9668 |
+\href{https://github.com/ananyagarg81}{Github} |
+\href{https://www.linkedin.com/in/ananya-garg81/}{LinkedIn}
+\end{center}
+\vspace{6pt}
+```
+
+<!-- EDUCATION: 1ST BULLET -->
+```{=tex}
+\begin{large}
+  \textbf{CAREER OBJECTIVE}
+  \vspace{3pt}
+  \hrule
+I am a senior at UCLA, pursuing a double major in Economics and Statistics and Data Science with a concentration in Value Investing. I am passionate about the intersection of data analytics, decision science and value investing, and am keen to explore the application of these different areas through a career in asset management by taking on a multi-disciplinary approach to investment analysis.
+  \end{large}
+\vspace{1.5pt}
+```
+
+<!-- EDUCATION: 1ST BULLET -->
+```{=tex}
+\begin{large}
+  \textbf{EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}\textbf{University of California, Los Angeles}\end{flushleft}
+    \begin{flushright}2020-2024 \end{flushright}
+  \end{multicols}
+  \vspace{-0.7cm}
+  \begin{multicols}{2}
+    \begin{flushleft} \textit{B.S. Statistics and Data Science | B.A. Economics} \end{flushleft}
+    \begin{flushright} \textit{GPA: 3.89} \end{flushright}
+  \end{multicols}
+  \vspace{-0.5cm}
+\begin{itemize}
+  \item Benjamin Graham Value Investing Conc.: Performed fundamental analysis, valuation using DCF, and balance sheet analysis on an undervalued stock to pitch to a class of 40+ students and professors; heard from industry professionals from buy-side investment companies including firm visit to Oaktree Capital
+  \item Project RISHI: Led and managed sustainable environmental projects for a rural village in India including water filter installation in central tanks and increased awareness of hand hygiene
+\end{itemize}
+\end{large}
+\vspace{0.05cm}
+```
+
+<!-- EDUCATION: 2ND BULLET -->
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft} \textbf{United World College of SEA}\end{flushleft}
+    \begin{flushright}2010-2020\end{flushright}
+  \end{multicols}
+  \vspace{-0.7cm}
+  \begin{multicols}{2}
+    \begin{flushleft} \textit{International Baccalaureate: HL Econ, Math, Comp Sci.} \end{flushleft}
+    \begin{flushright} \textit{Grade: 43/45} \end{flushright}
+  \end{multicols}
+  \vspace{-0.5cm}
+\begin{itemize}
+  \item Research Project (Dec 2018-Oct 2019): Analyzed the impact of Uber’s exit from SEA on consumer opinion of ridesharing services; youngest presenter to 600+ attendees at the American Marketing Association Summer Conference (Aug 2020); under guidance of Vishal Narayan (Assoc. Prof. NUS)
+  \item Captained UWCSEA U19 Girls Badminton Team to 1st position in the Athletic Conference of Singapore International Schools (ACSIS) and 2nd position in South East Asia Student Activties Conference (SEASAC)
+  \item Chair of Economics Society (Aug 2018 – Nov 2019): Led weekly classroom discussions and debates; Organised topical presentations by industry leaders; increased society membership by 50% 
+\end{itemize}
+\end{large}
+\vspace{1.5pt}
+```
+
+<!-- WORK EXPERIENCE: 1ST BULLET -->
+
+```{=tex}
+\begin{large}
+  \textbf{WORK EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  
+  \begin{multicols}{2}
+    \begin{flushleft}\textbf{Ares Management Corporation}\end{flushleft}
+    \begin{flushright} \textbf{Denver, CO} \end{flushright}
+  \end{multicols}
+  \vspace{-0.7cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft} \textit{Summer Analyst, Wealth Management Soltuions} \end{flushleft}
+    \begin{flushright} \textit{Jun 2023 - Present} \end{flushright}
+  \end{multicols}
+  \vspace{-0.5cm}
+  \begin{itemize}
+    \item Performed in-depth competitor analysis of top 5 private asset management firms to identify opportunities for AWMS digital expansion. Used R and Python to analyze 10,000+ data points
+    \item Presented 40-slide deck to 20+ senior stakeholders on key recommendations for repositioning of marketing strategy
+    \item Built multiple Tableau dashboards using Salesforce data to provide insight on effective inclusion of product specialists throughout the client engagement cycle
+  \end{itemize}
+\end{large}
+\vspace{0.05cm}
+```
+
+<!-- WORK EXPERIENCE: 2ND BULLET -->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft} \textbf{Levi Strauss and Co.} \end{flushleft}
+    \begin{flushright} \textbf{San Francisco, CA} \end{flushright}
+  \end{multicols}
+  \vspace{-0.7cm}
+  \begin{multicols}{2}
+    \begin{flushleft} \textit{Junior Analyst, Global Supply Management} \end{flushleft}
+    \begin{flushright} \textit{Jun 2022-Aug 2022} \end{flushright}
+  \end{multicols}
+  \vspace{-0.5cm}
+  \begin{itemize}
+    \item Optimized placement of products on global vendors based on COGS and location, using Excel and Tableau. Resulted in reduction of lead time by 36 days (33%) and COGS by 13% for knit tops in the North/South American regions.
+    \item Identified gaps in current processes and existing ERP system through cross functional user research
+  \end{itemize}
+\end{large}
+\vspace{0.05cm}
+```
+
+<!-- WORK EXPERIENCE: 3RD BULLET -->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft} \textbf{Quilt.AI} \end{flushleft}
+    \begin{flushright} \textbf{Singapore, Singapore} \end{flushright}
+  \end{multicols}
+  \vspace{-0.7cm}
+  \begin{multicols}{2}
+    \begin{flushleft} \textit{Social Impact Intern} \end{flushleft}
+    \begin{flushright} \textit{Mar 2021-Aug 2021} \end{flushright}
+  \end{multicols}
+  \vspace{-0.5cm}
+  \begin{itemize}
+    \item Analysed social media data using AI software, Excel and Tableau to curate targeted ad content to nudge social attitudes
+    \item Managed online ad campaigns on Facebook, Instagram, Twitter, and Google Display Network for UN Women and World Bank to create a meaningful impact on gender equality and global health respectively. Outreach of over 40,000 adolescents achieved in Bangladesh to shift behaviors towards healthy nutrition.
+  \end{itemize}
+\end{large}
+\vspace{1.5pt}
+```
+
+<!-- LEADERSHIP & INVOLVEMENT: 1ST BULLET -->
+
+```{=tex}
+\begin{large}
+  \textbf{LEADERSHIP AND INVOLVEMENT}
+  \vspace{3pt}
+  \hrule
+  
+  \begin{multicols}{2}
+    \begin{flushleft} \textbf{DataResolutions, UCLA} \end{flushleft}
+    \begin{flushright} \textbf{Los Angeles, CA} \end{flushright}
+  \end{multicols}
+  \vspace{-0.7cm}
+  \begin{multicols}{2}
+    \begin{flushleft} \textit{Project Manager, Data Consultant} \end{flushleft}
+    \begin{flushright} \textit{Jan 2022-Present} \end{flushright}
+  \end{multicols}
+  \vspace{-0.5cm}
+  
+  \begin{itemize}
+    \item Led a team of 6 consultants to redefine granularity of client's recommendation models for a wine-food pairing app.
+    \item Built a Sellability Index for 34,000 listings on Zillow using web scraping and NLP modelling in Python and R, implemented regression models to predict sale price and time to sell
+  \end{itemize}
+
+\end{large}
+\vspace{0.05cm}
+```
+
+<!-- LEADERSHIP & INVOLVEMENT: 2ND BULLET -->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft} \textbf{The Stack, Daily Bruin UCLA} \end{flushleft}
+    \begin{flushright} \textbf{Los Angeles, CA} \end{flushright}
+  \end{multicols}
+  \vspace{-0.7cm}
+  \begin{multicols}{2}
+    \begin{flushleft} \textit{Data Journalist} \end{flushleft}
+    \begin{flushright} \textit{Sep 2020-Present} \end{flushright}
+  \end{multicols}
+  \vspace{-0.5cm}
+  
+  \begin{itemize}
+    \item Collected and analyzed over 1.6 million data points using Python and JavaScript to observe \href{https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/}{speed of class enrolment}
+    \item Performed sentiment analysis using Python NLTK package to \href{https://stack.dailybruin.com/2022/03/10/prof-reviews/}{evaluate student feedback in professor reviews} on BruinWalk, to understand the impact of professor’s gender and of online v/s in-person learning, on the reviews
+  \end{itemize}
+\end{large}
+\vspace{1.5pt}
+```
+
+<!-- CERTIFICATES & LICENSES -->
+
+```{=tex}
+\begin{large}
+  \textbf{CERTIFICATES AND LICENSES}
+  \vspace{3pt}
+  \hrule
+  
+  \textbf{Securities Industrials Essentials (SIE)} | \textit{Issued by FINRA (Aug 2023)}
+  
+  \textbf{Real Estate Financial Modelling, LBO Modelling} | \textit{Issued by Wall Street Prep (2023)}
+  
+  \textbf{Buyside Mastery, Accountings and Valuations Fundamentals Mastery, M\&A Modelling} | \textit{Issued by FinanceAble (2024)}
+
+\end{large}
+\vspace{1.5pt}
+```
+
+<!-- ADDITIONAL -->
+
+```{=tex}
+\begin{large}
+  \textbf{ADDITIONAL}
+  \vspace{3pt}
+  \hrule
+  
+\textbf{Software and Coding: } \textit{Google Analytics, Tableau, Salesforce, Google Display Network, Facebook Advertisement, MS Office, R, Python, SQL, C++, HTML, Java}
+
+\textbf{Languages: } \textit{English (Native Proficiency), Mandarin (Professional Working Proficiency), Hindi (Verbal Working Proficiency)}
+
+\end{large}
+\vspace{1.5pt}
+```
+
+<!-- REFERENCES -->
+
+```{=tex}
+\begin{large}
+  \textbf{REFERENCES}
+  \vspace{3pt}
+  \hrule
+  
+  \begin{enumerate}
+    \item \textbf{Ms. Molly Duff, } Managing Director, Ares Wealth Management Solutions
+    \item \textbf{Mr. William E. Simon Jr., } Adjunct Assistant Professor \& Co-Founder, Benjamin Graham Value Investing Program, UCLA
+    \item \textbf{Mr. Vishal Narayan, } Associate Professor of Marketing, University of Connecticut School of Business
+  \end{enumerate}
+
+\end{large}
+```
